@@ -1,4 +1,4 @@
-## Olá lindôes e lindonas! Me chamo Daniel, tudo bem?
+## Olá lindões e lindonas! Me chamo Daniel, tudo bem?
  <div>
   <a href="https://github.com/danganf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danganf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
